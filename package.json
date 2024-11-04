@@ -7,7 +7,7 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "puppeteer": "^21.5.0",
+    "puppeteer": "^22.8.2",
     "telegraf": "^4.15.0",
     "node-schedule": "^2.1.1",
     "moment-timezone": "^0.5.43",
